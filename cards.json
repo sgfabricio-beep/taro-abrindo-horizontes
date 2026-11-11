@@ -1,0 +1,548 @@
+[
+  {
+    "id": "00_Fool",
+    "name": "O Louco",
+    "kind": "Maior",
+    "keyword": "novos começos",
+    "img": "assets/00_Fool.webp"
+  },
+  {
+    "id": "01_Magician",
+    "name": "O Mago",
+    "kind": "Maior",
+    "keyword": "iniciativa e recursos",
+    "img": "assets/01_Magician.webp"
+  },
+  {
+    "id": "02_High_Priestess",
+    "name": "A Sacerdotisa",
+    "kind": "Maior",
+    "keyword": "intuição e silêncio",
+    "img": "assets/02_High_Priestess.webp"
+  },
+  {
+    "id": "03_Empress",
+    "name": "A Imperatriz",
+    "kind": "Maior",
+    "keyword": "crescimento e criação",
+    "img": "assets/03_Empress.webp"
+  },
+  {
+    "id": "04_Emperor",
+    "name": "O Imperador",
+    "kind": "Maior",
+    "keyword": "estrutura e autoridade",
+    "img": "assets/04_Emperor.webp"
+  },
+  {
+    "id": "05_Hierophant",
+    "name": "O Hierofante",
+    "kind": "Maior",
+    "keyword": "tradição e aprendizado",
+    "img": "assets/05_Hierophant.webp"
+  },
+  {
+    "id": "06_Lovers",
+    "name": "Os Enamorados",
+    "kind": "Maior",
+    "keyword": "escolhas e vínculos",
+    "img": "assets/06_Lovers.webp"
+  },
+  {
+    "id": "07_Chariot",
+    "name": "O Carro",
+    "kind": "Maior",
+    "keyword": "direção e disciplina",
+    "img": "assets/07_Chariot.webp"
+  },
+  {
+    "id": "08_Strength",
+    "name": "A Força",
+    "kind": "Maior",
+    "keyword": "coragem e autocontrole",
+    "img": "assets/08_Strength.webp"
+  },
+  {
+    "id": "09_Hermit",
+    "name": "O Eremita",
+    "kind": "Maior",
+    "keyword": "recolhimento e busca",
+    "img": "assets/09_Hermit.webp"
+  },
+  {
+    "id": "10_Wheel_of_Fortune",
+    "name": "A Roda da Fortuna",
+    "kind": "Maior",
+    "keyword": "ciclos e mudanças",
+    "img": "assets/10_Wheel_of_Fortune.webp"
+  },
+  {
+    "id": "11_Justice",
+    "name": "A Justiça",
+    "kind": "Maior",
+    "keyword": "equilíbrio e consequências",
+    "img": "assets/11_Justice.webp"
+  },
+  {
+    "id": "12_Hanged_Man",
+    "name": "O Enforcado",
+    "kind": "Maior",
+    "keyword": "pausa e nova perspectiva",
+    "img": "assets/12_Hanged_Man.webp"
+  },
+  {
+    "id": "13_Death",
+    "name": "A Morte",
+    "kind": "Maior",
+    "keyword": "encerramento e transformação",
+    "img": "assets/13_Death.webp"
+  },
+  {
+    "id": "14_Temperance",
+    "name": "A Temperança",
+    "kind": "Maior",
+    "keyword": "moderação e integração",
+    "img": "assets/14_Temperance.webp"
+  },
+  {
+    "id": "15_Devil",
+    "name": "O Diabo",
+    "kind": "Maior",
+    "keyword": "apegos e limites",
+    "img": "assets/15_Devil.webp"
+  },
+  {
+    "id": "16_Tower",
+    "name": "A Torre",
+    "kind": "Maior",
+    "keyword": "ruptura e revisão",
+    "img": "assets/16_Tower.webp"
+  },
+  {
+    "id": "17_Star",
+    "name": "A Estrela",
+    "kind": "Maior",
+    "keyword": "esperança e recuperação",
+    "img": "assets/17_Star.webp"
+  },
+  {
+    "id": "18_Moon",
+    "name": "A Lua",
+    "kind": "Maior",
+    "keyword": "incertezas e percepções",
+    "img": "assets/18_Moon.webp"
+  },
+  {
+    "id": "19_Sun",
+    "name": "O Sol",
+    "kind": "Maior",
+    "keyword": "clareza e vitalidade",
+    "img": "assets/19_Sun.webp"
+  },
+  {
+    "id": "20_Judgement",
+    "name": "O Julgamento",
+    "kind": "Maior",
+    "keyword": "reavaliação e despertar",
+    "img": "assets/20_Judgement.webp"
+  },
+  {
+    "id": "21_World",
+    "name": "O Mundo",
+    "kind": "Maior",
+    "keyword": "conclusão e integração",
+    "img": "assets/21_World.webp"
+  },
+  {
+    "id": "Cups01",
+    "name": "Ás de Copas",
+    "kind": "Menor",
+    "keyword": "copas: início",
+    "img": "assets/Cups01.webp"
+  },
+  {
+    "id": "Cups02",
+    "name": "Dois de Copas",
+    "kind": "Menor",
+    "keyword": "copas: desenvolvimento",
+    "img": "assets/Cups02.webp"
+  },
+  {
+    "id": "Cups03",
+    "name": "Três de Copas",
+    "kind": "Menor",
+    "keyword": "copas: desenvolvimento",
+    "img": "assets/Cups03.webp"
+  },
+  {
+    "id": "Cups04",
+    "name": "Quatro de Copas",
+    "kind": "Menor",
+    "keyword": "copas: desenvolvimento",
+    "img": "assets/Cups04.webp"
+  },
+  {
+    "id": "Cups05",
+    "name": "Cinco de Copas",
+    "kind": "Menor",
+    "keyword": "copas: desenvolvimento",
+    "img": "assets/Cups05.webp"
+  },
+  {
+    "id": "Cups06",
+    "name": "Seis de Copas",
+    "kind": "Menor",
+    "keyword": "copas: desenvolvimento",
+    "img": "assets/Cups06.webp"
+  },
+  {
+    "id": "Cups07",
+    "name": "Sete de Copas",
+    "kind": "Menor",
+    "keyword": "copas: desenvolvimento",
+    "img": "assets/Cups07.webp"
+  },
+  {
+    "id": "Cups08",
+    "name": "Oito de Copas",
+    "kind": "Menor",
+    "keyword": "copas: desenvolvimento",
+    "img": "assets/Cups08.webp"
+  },
+  {
+    "id": "Cups09",
+    "name": "Nove de Copas",
+    "kind": "Menor",
+    "keyword": "copas: desenvolvimento",
+    "img": "assets/Cups09.webp"
+  },
+  {
+    "id": "Cups10",
+    "name": "Dez de Copas",
+    "kind": "Menor",
+    "keyword": "copas: desenvolvimento",
+    "img": "assets/Cups10.webp"
+  },
+  {
+    "id": "Cups11",
+    "name": "Pajem de Copas",
+    "kind": "Menor",
+    "keyword": "copas: figura da corte",
+    "img": "assets/Cups11.webp"
+  },
+  {
+    "id": "Cups12",
+    "name": "Cavaleiro de Copas",
+    "kind": "Menor",
+    "keyword": "copas: figura da corte",
+    "img": "assets/Cups12.webp"
+  },
+  {
+    "id": "Cups13",
+    "name": "Rainha de Copas",
+    "kind": "Menor",
+    "keyword": "copas: figura da corte",
+    "img": "assets/Cups13.webp"
+  },
+  {
+    "id": "Cups14",
+    "name": "Rei de Copas",
+    "kind": "Menor",
+    "keyword": "copas: figura da corte",
+    "img": "assets/Cups14.webp"
+  },
+  {
+    "id": "Pents01",
+    "name": "Ás de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: início",
+    "img": "assets/Pents01.webp"
+  },
+  {
+    "id": "Pents02",
+    "name": "Dois de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: desenvolvimento",
+    "img": "assets/Pents02.webp"
+  },
+  {
+    "id": "Pents03",
+    "name": "Três de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: desenvolvimento",
+    "img": "assets/Pents03.webp"
+  },
+  {
+    "id": "Pents04",
+    "name": "Quatro de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: desenvolvimento",
+    "img": "assets/Pents04.webp"
+  },
+  {
+    "id": "Pents05",
+    "name": "Cinco de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: desenvolvimento",
+    "img": "assets/Pents05.webp"
+  },
+  {
+    "id": "Pents06",
+    "name": "Seis de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: desenvolvimento",
+    "img": "assets/Pents06.webp"
+  },
+  {
+    "id": "Pents07",
+    "name": "Sete de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: desenvolvimento",
+    "img": "assets/Pents07.webp"
+  },
+  {
+    "id": "Pents08",
+    "name": "Oito de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: desenvolvimento",
+    "img": "assets/Pents08.webp"
+  },
+  {
+    "id": "Pents09",
+    "name": "Nove de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: desenvolvimento",
+    "img": "assets/Pents09.webp"
+  },
+  {
+    "id": "Pents10",
+    "name": "Dez de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: desenvolvimento",
+    "img": "assets/Pents10.webp"
+  },
+  {
+    "id": "Pents11",
+    "name": "Pajem de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: figura da corte",
+    "img": "assets/Pents11.webp"
+  },
+  {
+    "id": "Pents12",
+    "name": "Cavaleiro de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: figura da corte",
+    "img": "assets/Pents12.webp"
+  },
+  {
+    "id": "Pents13",
+    "name": "Rainha de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: figura da corte",
+    "img": "assets/Pents13.webp"
+  },
+  {
+    "id": "Pents14",
+    "name": "Rei de Ouros",
+    "kind": "Menor",
+    "keyword": "ouros: figura da corte",
+    "img": "assets/Pents14.webp"
+  },
+  {
+    "id": "Swords01",
+    "name": "Ás de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: início",
+    "img": "assets/Swords01.webp"
+  },
+  {
+    "id": "Swords02",
+    "name": "Dois de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: desenvolvimento",
+    "img": "assets/Swords02.webp"
+  },
+  {
+    "id": "Swords03",
+    "name": "Três de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: desenvolvimento",
+    "img": "assets/Swords03.webp"
+  },
+  {
+    "id": "Swords04",
+    "name": "Quatro de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: desenvolvimento",
+    "img": "assets/Swords04.webp"
+  },
+  {
+    "id": "Swords05",
+    "name": "Cinco de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: desenvolvimento",
+    "img": "assets/Swords05.webp"
+  },
+  {
+    "id": "Swords06",
+    "name": "Seis de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: desenvolvimento",
+    "img": "assets/Swords06.webp"
+  },
+  {
+    "id": "Swords07",
+    "name": "Sete de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: desenvolvimento",
+    "img": "assets/Swords07.webp"
+  },
+  {
+    "id": "Swords08",
+    "name": "Oito de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: desenvolvimento",
+    "img": "assets/Swords08.webp"
+  },
+  {
+    "id": "Swords09",
+    "name": "Nove de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: desenvolvimento",
+    "img": "assets/Swords09.webp"
+  },
+  {
+    "id": "Swords10",
+    "name": "Dez de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: desenvolvimento",
+    "img": "assets/Swords10.webp"
+  },
+  {
+    "id": "Swords11",
+    "name": "Pajem de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: figura da corte",
+    "img": "assets/Swords11.webp"
+  },
+  {
+    "id": "Swords12",
+    "name": "Cavaleiro de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: figura da corte",
+    "img": "assets/Swords12.webp"
+  },
+  {
+    "id": "Swords13",
+    "name": "Rainha de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: figura da corte",
+    "img": "assets/Swords13.webp"
+  },
+  {
+    "id": "Swords14",
+    "name": "Rei de Espadas",
+    "kind": "Menor",
+    "keyword": "espadas: figura da corte",
+    "img": "assets/Swords14.webp"
+  },
+  {
+    "id": "Wands01",
+    "name": "Ás de Paus",
+    "kind": "Menor",
+    "keyword": "paus: início",
+    "img": "assets/Wands01.webp"
+  },
+  {
+    "id": "Wands02",
+    "name": "Dois de Paus",
+    "kind": "Menor",
+    "keyword": "paus: desenvolvimento",
+    "img": "assets/Wands02.webp"
+  },
+  {
+    "id": "Wands03",
+    "name": "Três de Paus",
+    "kind": "Menor",
+    "keyword": "paus: desenvolvimento",
+    "img": "assets/Wands03.webp"
+  },
+  {
+    "id": "Wands04",
+    "name": "Quatro de Paus",
+    "kind": "Menor",
+    "keyword": "paus: desenvolvimento",
+    "img": "assets/Wands04.webp"
+  },
+  {
+    "id": "Wands05",
+    "name": "Cinco de Paus",
+    "kind": "Menor",
+    "keyword": "paus: desenvolvimento",
+    "img": "assets/Wands05.webp"
+  },
+  {
+    "id": "Wands06",
+    "name": "Seis de Paus",
+    "kind": "Menor",
+    "keyword": "paus: desenvolvimento",
+    "img": "assets/Wands06.webp"
+  },
+  {
+    "id": "Wands07",
+    "name": "Sete de Paus",
+    "kind": "Menor",
+    "keyword": "paus: desenvolvimento",
+    "img": "assets/Wands07.webp"
+  },
+  {
+    "id": "Wands08",
+    "name": "Oito de Paus",
+    "kind": "Menor",
+    "keyword": "paus: desenvolvimento",
+    "img": "assets/Wands08.webp"
+  },
+  {
+    "id": "Wands09",
+    "name": "Nove de Paus",
+    "kind": "Menor",
+    "keyword": "paus: desenvolvimento",
+    "img": "assets/Wands09.webp"
+  },
+  {
+    "id": "Wands10",
+    "name": "Dez de Paus",
+    "kind": "Menor",
+    "keyword": "paus: desenvolvimento",
+    "img": "assets/Wands10.webp"
+  },
+  {
+    "id": "Wands11",
+    "name": "Pajem de Paus",
+    "kind": "Menor",
+    "keyword": "paus: figura da corte",
+    "img": "assets/Wands11.webp"
+  },
+  {
+    "id": "Wands12",
+    "name": "Cavaleiro de Paus",
+    "kind": "Menor",
+    "keyword": "paus: figura da corte",
+    "img": "assets/Wands12.webp"
+  },
+  {
+    "id": "Wands13",
+    "name": "Rainha de Paus",
+    "kind": "Menor",
+    "keyword": "paus: figura da corte",
+    "img": "assets/Wands13.webp"
+  },
+  {
+    "id": "Wands14",
+    "name": "Rei de Paus",
+    "kind": "Menor",
+    "keyword": "paus: figura da corte",
+    "img": "assets/Wands14.webp"
+  }
+]
